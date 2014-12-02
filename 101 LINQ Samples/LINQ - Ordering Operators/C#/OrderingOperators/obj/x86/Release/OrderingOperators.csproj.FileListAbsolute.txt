@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\bin\Release\OrderingOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\bin\Release\OrderingOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Release\OrderingOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Release\OrderingOperators.pdb

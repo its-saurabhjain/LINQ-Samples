@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\bin\Release\JoinOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\bin\Release\JoinOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\obj\x86\Release\JoinOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\obj\x86\Release\JoinOperators.pdb

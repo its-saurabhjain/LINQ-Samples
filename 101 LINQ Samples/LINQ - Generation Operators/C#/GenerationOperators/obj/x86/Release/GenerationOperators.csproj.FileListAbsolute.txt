@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\bin\Release\GenerationOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\bin\Release\GenerationOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\obj\x86\Release\GenerationOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\obj\x86\Release\GenerationOperators.pdb

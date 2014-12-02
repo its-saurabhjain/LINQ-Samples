@@ -1,0 +1,25 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\AggregateOperators\AggregateOperators\bin\Debug\AggregateOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\AggregateOperators\AggregateOperators\bin\Debug\AggregateOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\AggregateOperators\AggregateOperators\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\LINQ Query Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\LINQ Query Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.pdb
+\\transfer\TRANSFER\v-damdec\CSharpSamples\Linq Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.exe
+\\transfer\TRANSFER\v-damdec\CSharpSamples\Linq Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.pdb
+\\transfer\TRANSFER\v-damdec\CSharpSamples\Linq Samples\AggregateOperators\AggregateOperators\bin\Debug\Customers.xml
+\\transfer\TRANSFER\v-damdec\CSharpSamples\Linq Samples\AggregateOperators\AggregateOperators\bin\Debug\AggregateOperators.exe
+\\transfer\TRANSFER\v-damdec\CSharpSamples\Linq Samples\AggregateOperators\AggregateOperators\bin\Debug\AggregateOperators.pdb
+\\transfer\TRANSFER\v-damdec\CSharpSamples\Linq Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\AggregateOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\AggregateOperators\AggregateOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\AggregateOperators\AggregateOperators\bin\Debug\AggregateOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\AggregateOperators\AggregateOperators\bin\Debug\AggregateOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\AggregateOperators\AggregateOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\bin\Debug\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\bin\Debug\AggregateOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\bin\Debug\AggregateOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\obj\x86\Debug\AggregateOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\obj\x86\Debug\AggregateOperators.pdb

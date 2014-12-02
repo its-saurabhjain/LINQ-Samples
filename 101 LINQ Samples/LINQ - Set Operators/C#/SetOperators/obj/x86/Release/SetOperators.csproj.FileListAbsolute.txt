@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Set Operators\C#\SetOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Set Operators\C#\SetOperators\bin\Release\SetOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Set Operators\C#\SetOperators\bin\Release\SetOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Set Operators\C#\SetOperators\obj\x86\Release\SetOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Set Operators\C#\SetOperators\obj\x86\Release\SetOperators.pdb

@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Partitioning Operators\C#\PartitioningOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Partitioning Operators\C#\PartitioningOperators\bin\Release\PartitioningOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Partitioning Operators\C#\PartitioningOperators\bin\Release\PartitioningOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Partitioning Operators\C#\PartitioningOperators\obj\x86\Release\PartitioningOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Partitioning Operators\C#\PartitioningOperators\obj\x86\Release\PartitioningOperators.pdb

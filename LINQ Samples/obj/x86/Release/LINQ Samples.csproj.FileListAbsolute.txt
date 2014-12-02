@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\LINQ Samples\bin\Release\LINQ Samples.exe
+C:\VSCode\LINQ Samples\LINQ Samples\bin\Release\LINQ Samples.pdb
+C:\VSCode\LINQ Samples\LINQ Samples\obj\x86\Release\LINQ Samples.csprojResolveAssemblyReference.cache
+C:\VSCode\LINQ Samples\LINQ Samples\obj\x86\Release\LINQ Samples.exe
+C:\VSCode\LINQ Samples\LINQ Samples\obj\x86\Release\LINQ Samples.pdb

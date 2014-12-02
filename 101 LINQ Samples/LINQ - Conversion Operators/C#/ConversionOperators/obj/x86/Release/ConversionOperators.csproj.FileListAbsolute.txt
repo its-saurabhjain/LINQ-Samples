@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Conversion Operators\C#\ConversionOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Conversion Operators\C#\ConversionOperators\bin\Release\ConversionOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Conversion Operators\C#\ConversionOperators\bin\Release\ConversionOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Conversion Operators\C#\ConversionOperators\obj\x86\Release\ConversionOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Conversion Operators\C#\ConversionOperators\obj\x86\Release\ConversionOperators.pdb

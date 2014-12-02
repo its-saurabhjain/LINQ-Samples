@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Restriction Operators\C#\RestrictionOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Restriction Operators\C#\RestrictionOperators\bin\Release\RestrictionOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Restriction Operators\C#\RestrictionOperators\bin\Release\RestrictionOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Restriction Operators\C#\RestrictionOperators\obj\x86\Release\RestrictionOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Restriction Operators\C#\RestrictionOperators\obj\x86\Release\RestrictionOperators.pdb

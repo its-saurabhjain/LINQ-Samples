@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\bin\Release\ElementOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\bin\Release\ElementOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\obj\x86\Release\ElementOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\obj\x86\Release\ElementOperators.pdb

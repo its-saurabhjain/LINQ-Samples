@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ  - Grouping Operators\C#\GroupingOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ  - Grouping Operators\C#\GroupingOperators\bin\Release\GroupingOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ  - Grouping Operators\C#\GroupingOperators\bin\Release\GroupingOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ  - Grouping Operators\C#\GroupingOperators\obj\x86\Release\GroupingOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ  - Grouping Operators\C#\GroupingOperators\obj\x86\Release\GroupingOperators.pdb

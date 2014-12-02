@@ -1,0 +1,17 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\JoinOperators\JoinOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\JoinOperators\JoinOperators\bin\Debug\JoinOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\JoinOperators\JoinOperators\bin\Debug\JoinOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\JoinOperators\JoinOperators\obj\x86\Debug\JoinOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\JoinOperators\JoinOperators\obj\x86\Debug\JoinOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\JoinOperators\JoinOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\JoinOperators\JoinOperators\obj\x86\Debug\JoinOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\JoinOperators\JoinOperators\obj\x86\Debug\JoinOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\JoinOperators\JoinOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\JoinOperators\JoinOperators\bin\Debug\JoinOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\JoinOperators\JoinOperators\bin\Debug\JoinOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\JoinOperators\JoinOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\obj\x86\Debug\JoinOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\obj\x86\Debug\JoinOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\bin\Debug\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\bin\Debug\JoinOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Join Operators\C#\JoinOperators\bin\Debug\JoinOperators.pdb

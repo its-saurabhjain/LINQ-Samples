@@ -1,0 +1,17 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\bin\Debug\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.pdb

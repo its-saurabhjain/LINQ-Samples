@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Miscellaneous Operators\C#\MiscellaneousOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Miscellaneous Operators\C#\MiscellaneousOperators\bin\Release\MiscellaneousOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Miscellaneous Operators\C#\MiscellaneousOperators\bin\Release\MiscellaneousOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Miscellaneous Operators\C#\MiscellaneousOperators\obj\x86\Release\MiscellaneousOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Miscellaneous Operators\C#\MiscellaneousOperators\obj\x86\Release\MiscellaneousOperators.pdb

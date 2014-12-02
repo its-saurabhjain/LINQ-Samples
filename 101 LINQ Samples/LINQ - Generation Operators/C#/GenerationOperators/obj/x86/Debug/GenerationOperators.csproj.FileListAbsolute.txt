@@ -1,0 +1,17 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\GenerationOperators\GenerationOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\GenerationOperators\GenerationOperators\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\GenerationOperators\GenerationOperators\bin\Debug\GenerationOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\GenerationOperators\GenerationOperators\bin\Debug\GenerationOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\GenerationOperators\GenerationOperators\obj\x86\Debug\GenerationOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\GenerationOperators\GenerationOperators\obj\x86\Debug\GenerationOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\GenerationOperators\GenerationOperators\obj\x86\Debug\GenerationOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\GenerationOperators\GenerationOperators\obj\x86\Debug\GenerationOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\GenerationOperators\GenerationOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\GenerationOperators\GenerationOperators\bin\Debug\GenerationOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\GenerationOperators\GenerationOperators\bin\Debug\GenerationOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\GenerationOperators\GenerationOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\bin\Debug\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\bin\Debug\GenerationOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\bin\Debug\GenerationOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\obj\x86\Debug\GenerationOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Generation Operators\C#\GenerationOperators\obj\x86\Debug\GenerationOperators.pdb

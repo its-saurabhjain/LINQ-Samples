@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Quantifiers\C#\Quantifiers\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Quantifiers\C#\Quantifiers\bin\Release\Quantifiers.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Quantifiers\C#\Quantifiers\bin\Release\Quantifiers.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Release\Quantifiers.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Release\Quantifiers.pdb

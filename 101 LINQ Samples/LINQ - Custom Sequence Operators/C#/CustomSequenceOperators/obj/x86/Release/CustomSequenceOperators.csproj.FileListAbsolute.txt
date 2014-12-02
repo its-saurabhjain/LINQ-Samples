@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Custom Sequence Operators\C#\CustomSequenceOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Custom Sequence Operators\C#\CustomSequenceOperators\bin\Release\CustomSequenceOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Custom Sequence Operators\C#\CustomSequenceOperators\bin\Release\CustomSequenceOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Custom Sequence Operators\C#\CustomSequenceOperators\obj\x86\Release\CustomSequenceOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Custom Sequence Operators\C#\CustomSequenceOperators\obj\x86\Release\CustomSequenceOperators.pdb

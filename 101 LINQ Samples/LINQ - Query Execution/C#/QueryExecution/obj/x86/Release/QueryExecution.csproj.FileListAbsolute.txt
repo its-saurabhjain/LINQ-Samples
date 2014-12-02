@@ -1,0 +1,4 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Query Execution\C#\QueryExecution\bin\Release\QueryExecution.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Query Execution\C#\QueryExecution\bin\Release\QueryExecution.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Query Execution\C#\QueryExecution\obj\x86\Release\QueryExecution.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Query Execution\C#\QueryExecution\obj\x86\Release\QueryExecution.pdb

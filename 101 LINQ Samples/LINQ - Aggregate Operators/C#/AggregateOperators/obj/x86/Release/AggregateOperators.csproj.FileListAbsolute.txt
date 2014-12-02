@@ -1,0 +1,5 @@
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\bin\Release\Customers.xml
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\bin\Release\AggregateOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\bin\Release\AggregateOperators.pdb
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\obj\x86\Release\AggregateOperators.exe
+C:\VSCode\LINQ Samples\101 LINQ Samples\LINQ - Aggregate Operators\C#\AggregateOperators\obj\x86\Release\AggregateOperators.pdb
