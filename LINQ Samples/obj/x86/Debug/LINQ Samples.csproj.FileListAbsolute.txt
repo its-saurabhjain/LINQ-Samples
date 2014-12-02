@@ -7,3 +7,4 @@ C:\VSCode\LINQ Samples\LINQ Samples\obj\x86\Debug\LINQ Samples.exe
 C:\VSCode\LINQ Samples\LINQ Samples\obj\x86\Debug\LINQ Samples.pdb
 C:\VSCode\LINQ Samples\LINQ Samples\bin\Debug\LINQ Samples.exe
 C:\VSCode\LINQ Samples\LINQ Samples\bin\Debug\LINQ Samples.pdb
+C:\VSCode\LINQ Samples\LINQ Samples\obj\x86\Debug\LINQ Samples.csprojResolveAssemblyReference.cache

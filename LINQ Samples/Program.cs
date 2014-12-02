@@ -13,7 +13,7 @@ namespace LINQ_Samples
             int[] numbers = { 1, 2, 3, 4, 5 };
             Console.WriteLine(numbers.Aggregate((x1, x2) => x1 * x2).ToString());
             var defaultOrFirst = from n in numbers
-                                 //where n > 3
+                                 where n > 3
                                  select n;
 
             numbers.SelectMany(i=> i.ToString()).ToList().ForEach(i => Console.WriteLine(i));
